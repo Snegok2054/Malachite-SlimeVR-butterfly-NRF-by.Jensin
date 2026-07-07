@@ -1,4 +1,3 @@
-# Malachite-Tracker-Cases-For-Nrf52840-by.JENSIN
 # 🦋 Malachite Tracker Cases (RU)
 
 > Полное русскоязычное руководство по сборке **Malachite Tracker** на базе **nRF52840 + LSM6DSV**.
