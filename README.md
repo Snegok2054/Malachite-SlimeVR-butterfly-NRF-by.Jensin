@@ -264,7 +264,7 @@ https://ali.click/8dtlg16
 
 ---
 
-## itsJensin
+## [itsJensin](https://github.com/itsJensin)
 
 * 3D-моделирование;
 * разработка корпуса;
