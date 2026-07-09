@@ -196,6 +196,7 @@ https://ali.click/8dtlg16
 >*(Расположение трекеров можете посмотреть в софте SlimeVR)*
 
 ## Опаливаем концы чтобы ремни не пушились
+<img width="800" height="1067" alt="Onz9hrQC2YkU4fMN2M-L5dRxdLTMyTFjwyUhNJZNYA58SmYXtO0oNw9VhT4-zF5UldP8qJZnQApdF5olLEQgw7bN" src="https://github.com/user-attachments/assets/29ea962d-df8d-4df2-94f6-3b202dac88f6" />
 
 ## Продеваем ремень как показано на фото 
 
