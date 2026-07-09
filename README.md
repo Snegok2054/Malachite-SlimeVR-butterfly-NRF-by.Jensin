@@ -82,7 +82,7 @@ https://batterymag.ru/akkumulyator-li-po-robiton-601730-250mach
 
 Самый доступный вариант удалось найти только на AliExpress.
 
-> **Ali:**https://ali.click/67tlg1s
+> **Ali:** https://ali.click/67tlg1s
 
 ---
 
