@@ -192,7 +192,15 @@ https://ali.click/8dtlg16
 
 # 🪡 Шитьё ремней
 Нарезаем нужное количество ремней нужной длинны
->*(Расположение ремней можете посмотреть в софте SlimeVR)*
+>*(Расположение трекеров можете посмотреть в софте SlimeVR)*
+
+Опаливаем концы чтобы ремни не пушились
+<img width="1920" height="2560" alt="Onz9hrQC2YkU4fMN2M-L5dRxdLTMyTFjwyUhNJZNYA58SmYXtO0oNw9VhT4-zF5UldP8qJZnQApdF5olLEQgw7bN" src="https://github.com/user-attachments/assets/d3824a1e-a307-429b-aa95-f6ffabd3571d" />
+
+Продеваем ремень как показано на фото 
+<img width="1920" height="2560" alt="3TP0IVlLLr54dr5HKGaFEfIlg3c-k3KysWWA9X0iIF-8ZoAq8QE_SY-hoAfaJ1hRWTfKBQ_693qEo1N9oWyxOmog" src="https://github.com/user-attachments/assets/f760003d-7cdc-4bc7-b120-abe0412fcd9b" />
+И сшиваем. Должно получится так 
+<img width="1920" height="2560" alt="8PIwPQHxy48GCOnZM7LAFY-ta49rNBAxq5IsDkYpgfNW7JJj2xUDD4aZWPWIC6J-q_AvJkRAUt1WnpYgTg4uvK3K" src="https://github.com/user-attachments/assets/a8dc0fd0-d797-4477-8d4c-eec82e048a39" />
 
 
 
