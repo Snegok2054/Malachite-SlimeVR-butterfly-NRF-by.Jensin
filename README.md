@@ -44,13 +44,9 @@
 
 Недорогой микроконтроллер со всем необходимым для работы SlimeVR.
 
-**OZON**
+> **OZON:** https://ozon.ru/t/NBih7UN
 
-https://ozon.ru/t/NBih7UN
-
-**AliExpress**
-
-https://ali.click/8mrlg1d
+> **AliExpress** https://ali.click/8mrlg1d
 
 ---
 
@@ -58,25 +54,17 @@ https://ali.click/8mrlg1d
 
 На мой взгляд, сейчас это лучшее соотношение **цена / качество**.
 
-**OZON**
+> **OZON** https://ozon.ru/t/d7RMg4j
 
-https://ozon.ru/t/d7RMg4j
-
-**AliExpress**
-
-https://ali.click/6vrlg1k
+> **AliExpress** https://ali.click/6vrlg1k
 
 ---
 
 ## 🔩 Винты DIN7991 M2.5 × 8 мм
 
-**OZON**
+> **OZON** https://ozon.ru/t/C64Tsvv
 
-https://ozon.ru/t/C64Tsvv
-
-**AliExpress**
-
-https://ali.click/5dslg1z
+> **AliExpress** https://ali.click/5dslg1z
 
 ---
 
@@ -94,19 +82,15 @@ https://batterymag.ru/akkumulyator-li-po-robiton-601730-250mach
 
 Самый доступный вариант удалось найти только на AliExpress.
 
-https://ali.click/67tlg1s
+> **Ali:**https://ali.click/67tlg1s
 
 ---
 
 ## 🔘 Кнопка SMD 3×4×2 (2 Pin)
 
-**OZON**
+> **OZON** https://ozon.ru/t/mOaBcKP
 
-https://ozon.ru/t/mOaBcKP
-
-**AliExpress**
-
-https://ali.click/8dtlg16
+> **AliExpress** https://ali.click/8dtlg16
 
 ---
 
